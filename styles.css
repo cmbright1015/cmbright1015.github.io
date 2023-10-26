@@ -1,5 +1,5 @@
 body {
-background: [];
+background: [black];
 font-family: Arial, Helvetica, sans-serif;
 } h1 {
 .assign {
@@ -10,5 +10,5 @@ margin: 10px; background: [pick a color];
 .assign img {
 width: 200px; padding: 10px;
 }
-color: [pick a font color]; text-align: center;
+color: [blue]; text-align: center;
 }
