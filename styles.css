@@ -1,13 +1,14 @@
 body {
-background: [black];
+background-color: black;
 font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
+  color: red;
 .assign {
 display: flex;
 padding: 10px;
 margin: 10px; 
-  background: [black];
+  background-color: gray;
 }
 .assign img {
 width: 200px; padding: 10px;
