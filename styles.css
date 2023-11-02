@@ -8,13 +8,13 @@ h1 {
 }
 a {
 	text-decoration: none;
-	color: grey;
+	color: white;
 }
 .assign {
 	display: flex;
 	padding: 10px;
 	margin: 10px;
-	background: ;
+	background: grey;
 }
 .assign img {
 	width: 200px;
